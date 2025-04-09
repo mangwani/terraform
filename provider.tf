@@ -16,7 +16,7 @@ terraform {
   cloud {
     organization = "NatwestOrg"
     workspaces {
-      name = "terraform"
+      name = "terraform-test"
     }
   }
 }
